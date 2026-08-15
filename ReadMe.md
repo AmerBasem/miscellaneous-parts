@@ -8,22 +8,16 @@ Every component listed in this repository represents a localized engineering sol
 
 ## 📂 Repository Structure
 
-The repository is organized into independent, self-contained project directories. Each directory includes its respective parametric source files, manufacturing profiles, documentation, and specific validation parameters:
+The repository is organized into independent, self-contained project directories.
 
 ```text
 .
-├── 📁 infusion-pump-gear/              # Project 1: Syringe Pump Drivetrain Replacement
-│   ├── 📁 design-files/                # FreeCAD (.FCStd)
-│   ├── 📁 print-files/                 # Production-ready .stl and calibrated .3mf profiles
-│   ├── 📁 docs-and-manuals/            # Equipment user/service manuals (PG-801D)
-│   ├── 📁 media/                       # Inspection photographs and deployment videos
-│   └── 📄 README.md                    # In-depth technical guide & validation workflow for the gear
+├── 📁 infusion-pump-gear/             # Project 1: Syringe Pump Drivetrain Replacement
+│   ├── 📁 design-files/              # FreeCAD (.FCStd)
+│   ├── 📁 print-files/               # Production-ready .stl and calibrated .3mf
+│   ├── 📁 docs-and-manuals/          # Equipment user/service manuals (PG-801D)
+│   ├── 📁 media/                     # Inspection photographs and deployment videos
+│   └── 📄 README.md                  # In-depth technical guide & validation workflow
 │
-├── 📁 cr-cassette-slide-latch/         # Project 2: Computed Radiography Cassette Repair
-│   ├── 📁 design-files/                # FreeCAD (.FCStd) files
-│   ├── 📁 print-files/                 # Standard mesh (.stl) and .3MF files
-│   ├── 📁 docs-and-manuals/            # Technical reference material and user manuals
-│   ├── 📁 media/                       # Fitment and operational reference media
-│   └── 📄 README.md                    # 
-│
-└── 📄 README.md                        # This root registry overview documentation
+└── 📄 README.md                      # This root registry overview documentation
+```
