@@ -1,5 +1,9 @@
 # 3D-Printed Infusion Pump (PG-801D) Drive Gear Replacement
 
+
+<h1 align="center" style="color:red;">⚠️ WARNING: DO NOT USE THIS PART YET ⚠️</h1>
+<h3 align="center" style="color:red;">This model is currently in testing and refinement. It is NOT ready for clinical or deployment use.</h3>
+
 ## 1. Project Overview
 This open-source medical hardware project addresses a critical clinical bottleneck: the downtime of **PG-801D Infusion Pumps** due to the premature wear and mechanical failure of the primary drive gear. 
 
@@ -40,6 +44,8 @@ To ensure the printed part functions identically to the manufacturer's original 
 * **Why PETG?** PETG offers excellent layer adhesion, high toughness, and ease of printing with low thermal shrinkage.
 
 
+<h1 align="center" style="color:red;">⚠️ WARNING: DO NOT USE THIS PART YET ⚠️</h1>
+<h3 align="center" style="color:red;">This model is currently in testing and refinement. It is NOT ready for clinical or deployment use.</h3>
 
 ### Recommended Slicer Settings ABS
 | Parameter | Value | Details |

@@ -14,7 +14,7 @@ The repository is organized into independent, self-contained project directories
 .
 ├── 📁 infusion-pump-gear/             # Project 1: Syringe Pump Drivetrain Replacement
 │   ├── 📁 design-files/              # FreeCAD (.FCStd)
-│   ├── 📁 print-files/               # Production-ready .stl and calibrated .3mf
+│   ├── 📁 print-files/               # Production-ready .stl
 │   ├── 📁 docs-and-manuals/          # Equipment user/service manuals (PG-801D)
 │   ├── 📁 media/                     # Inspection photographs and deployment videos
 │   └── 📄 README.md                  # In-depth technical guide & validation workflow
