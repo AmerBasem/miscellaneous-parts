@@ -70,7 +70,8 @@ To ensure the printed part functions identically to the manufacturer's original 
 
 ## 5. Validation & Functional Testing
 Before deploying the manufactured gear into a clinical environment, each printed unit undergoes a strict multi-tier quality control protocol:
-For detailes about tests, see the [Testing Protocol](testing-protocol.md).
+For details about tests, see the [Testing Protocol](Quality_control/README.md).
+
 
 ```
 [3D Print Completed] 
